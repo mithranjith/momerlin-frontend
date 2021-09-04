@@ -31,7 +31,7 @@ const Header = () => {
         <HeaderComponent/>
         <div style={{margin:"auto"}} >
           <div  >
-            <img src={Logo} alt="Momerlin" height={200} />
+            <img src={Logo} alt="MoMerlin" height={200} />
           </div>
           <h4 className={styles.sufbtitle}>
             Welcome to MoMerlin!!!
